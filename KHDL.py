@@ -1,0 +1,10 @@
+x= float(input("10"))
+y= float(input("5"))
+tong = x+y
+hieu=x-y
+tich=x*y
+thuong=x/y
+print('Tong_cua_hai_so    ', x, '+', y, '=',tong)
+print('Hieu_cua_hai_so    ', x, '-', y, '=',hieu)
+print('Tich_cua_hai_so    ', x, '*', y, '=',tich)
+print('Thuong_cua_hai_so  ', x, '/', y, '=',thuong)
